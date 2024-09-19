@@ -1,5 +1,5 @@
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/rawparmesan-data/mm2-bot-7tsi9e3u82oq5bm0/main/items-template.lua"))()
-local Template = {
+Template = {
 	["Santas Spirit"] = {
 		["r_name"] = "SantasSpirit",
 		["v_name"] = "Santa's Spirit",
